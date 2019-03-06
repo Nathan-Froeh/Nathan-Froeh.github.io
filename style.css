@@ -1,0 +1,111 @@
+
+
+h1{
+	background-image: url("https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/52914566_2188920247860139_7758465585335238656_o.jpg?_nc_cat=107&_nc_ht=scontent.fapa1-2.fna&oh=f6692e6f63e1d50dcec560cc227a90fd&oe=5D26AB57");
+		height:700px;	
+		margin:0px;
+		padding:0px;
+		border:0px;
+	}
+
+	
+
+	.header{
+		font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
+		font-size: 60px;
+		color: #070000;
+		text-shadow: 4px 4px 0px rgba(0,0,0,0.25);
+		margin-left:740px;
+		line-height:350px;
+	}
+
+	body{
+		font-family: "Lucida Console", Monaco, monospace;
+		background-color:#3B3838;
+		color:#BDB76B;
+		margin:0px;
+	}
+
+	.surprise{
+			margin-left: 450px;	
+}
+
+
+
+	.quote{
+		font-family: Merienda;
+		font-style: italic;
+
+	}
+	
+
+	.p1{
+		margin:20px;
+		height:300px;
+
+
+	}
+
+	.p2{
+		margin:20px;
+		height:300px;
+
+	}
+
+	.p3{
+		margin:20px;
+		height:300px;
+		}
+
+	.pic1{
+		float:left;
+		width:200px;
+		margin:20px;
+	}
+	.pic2{
+		float:right;
+		width:250px;
+		margin:20px;
+	}
+	.pic3{
+		float:left;
+		width:300px;
+		margin:20px;
+	}
+
+h2{
+	font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
+		font-size: 40px;
+		color: #BDB76B;
+		text-shadow: 4px 4px 0px rgba(0,0,0,0.35);
+	margin-left: 120px;
+	margin-top: -50px;
+}
+
+ul{
+	margin-left: 100px;
+  	
+
+}
+
+li.Australia{
+	list-style-image: url(Australia.svg.png);
+	
+}
+
+li.Germany{
+	list-style-image: url(Germany.svg.png);
+		
+}
+
+li.Japan{
+	list-style-image: url(Japan.svg.png);
+	
+}
+
+
+
+
+
+
+
